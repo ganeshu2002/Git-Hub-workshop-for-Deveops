@@ -1,0 +1,18 @@
+0.160 git init
+   4        0.123 Git status
+   5        0.116 git add Testing.py
+   7        0.113 GIT status
+   8        0.107 git rm --cached
+   9        0.399 testing.py
+  10        0.110 git rm --cached Testing.py
+  11        0.100 git status
+  12        0.186 git add.
+  13        0.101 git add testing.py
+  14        0.093 git status
+  15        0.089 git add Testing.py
+  16        0.092 git status
+  17        0.223 git commit -m 'adding testing files'
+  18        0.085 git status
+  19        0.024 rm Testing.py
+  20        0.088 git status
+  21        0.110 git restore Testing.py
