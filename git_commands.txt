@@ -1,6 +1,7 @@
 0.160 git init
    4        0.123 Git status
    5        0.116 git add Testing.py
+   6        0.286 GIT STATUS
    7        0.113 GIT status
    8        0.107 git rm --cached
    9        0.399 testing.py
@@ -16,3 +17,16 @@
   19        0.024 rm Testing.py
   20        0.088 git status
   21        0.110 git restore Testing.py
+
+         0.089 history
+  23        0.132 git status
+  24        0.133 git add .
+  25        0.094 git status
+  26        0.180 git commit -m 'adding git_commands'
+  27        0.123 git status
+  28        0.121 git remote add origin https://github.com/ganeshu2002/Git-Hub-workshop-for-… 
+  29        0.126 git remote -v
+  30        0.109 git remote set-url origin
+  31        0.112 git remote set-url origin https://ghp_UuGgsbdt6FoRvWH4VrRXfCBfiU4M0pFVEO… 
+  32        0.099 git remote -v
+  33        2.663 git push origin master
