@@ -30,3 +30,5 @@
   31        0.112 git remote set-url origin https://ghp_UuGgsbdt6FoRvWH4VrRXfCBfiU4M0pFVEO… 
   32        0.099 git remote -v
   33        2.663 git push origin master
+
+checking to github repo. change to local
